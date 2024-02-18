@@ -1,0 +1,116 @@
+h1
+{
+    font-size: 20px;
+    font-size: 50px;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgba(212, 5, 212, 0.601);
+    margin-left: 850px;
+    margin-top: 80px;
+    position: absolute;
+    z-index: 100;
+}
+
+.ImagemEsquerda
+{
+    float: left;
+    margin-top: 150px;
+    margin-left: 210px;
+    width: 500px;
+    height: 500px;
+}
+
+.ImagemDireita
+{
+    float: right;
+    margin-top: 10px;
+    margin-right: 100px;
+    width: 500px;
+    height: 300px;
+}
+
+.ImagemMeio
+{
+    margin-top: 450px;
+    margin-left: 580px;
+    position: absolute;
+    z-index: 100;
+}
+
+.KittyNeon
+{
+    margin-left: 1200px;
+    margin-top: 550px;
+    position: absolute;
+    z-index: 100;
+
+}
+
+.KittyMeio
+{
+    margin-top: 490px;
+    margin-left: 620px;
+    display: none;
+    position: absolute;
+    z-index: 100;
+}
+
+.KittyDireita
+{
+    
+    margin-top: 150px;
+    margin-left: 1350px;
+    display: none;
+    position: absolute;
+    z-index: 100;
+}
+
+.Melody
+{
+    margin-top: 100px;
+    margin-left: 160px;
+    display: none;
+    position: absolute;
+    z-index: 100;
+}
+
+.MelodyFeliz
+{
+    margin-left: 1110px;
+    margin-top: 505px;
+    display: none;
+    position: absolute;
+    z-index: 100;
+}
+
+.botao
+{
+    border-radius: 8px;
+    width: 150px;
+    height: 45px;
+    background-color: rgba(212, 5, 212, 0.601);
+    margin-top: 280px;
+    margin-left: 870px;
+    border: none;
+    position: absolute;
+    z-index: 100;
+
+}
+
+html
+{   
+    background-color: black;
+}
+
+footer
+{
+    
+    overflow: hidden;
+    background-color: rgba(212, 5, 212, 0.601);
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 200px;
+    width: 100%;
+}
